@@ -1,5 +1,14 @@
 
 
+   <!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="description" content="This website is a part of our Information Systems' homework.From here you can find some interesting facts and information."
+    <title>Warriors' Website (Team 30)</title>
+
+    <!DOCTYPE html>
+
     <html>
     <head>
         <meta name="description" content="This website is a part of our Information Systems' homework.From here you can find some interesting facts and information."
@@ -47,4 +56,3 @@
 </html>
 
 
-</html>
