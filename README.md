@@ -3,7 +3,7 @@
 
 <html
 <head>
-    <title><strong>Information Systems' Homework page'</strong></title>
+    <strong>Information Systems' Homework page'</strong>
 
 </head>
       <body>
