@@ -162,7 +162,7 @@ h3{
     box-shadow: 0 0 20px 0px rgba(0,0,0,2);
 
 }
-div {
+.newclass{
     width: 1250px;
     border: 7px solid rgba(249, 249, 250, 0.918);
     padding: 50px;
